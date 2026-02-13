@@ -1,3 +1,3 @@
 # Portfolio
 Welcome to my world of work explore who I am and what I create.
-<img width="2202" height="943" alt="image" src="https://github.com/user-attachments/assets/7f67ea34-fe44-480f-8309-0f71591c418d" />
+<img width="1964" height="790" alt="image" src="https://github.com/user-attachments/assets/e2c5e3b0-5015-4d72-9dce-3b7409792593" />
